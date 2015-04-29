@@ -1,0 +1,18 @@
+{
+    "name": "brackets-eclipse-theme",
+    "title": "Eclipse Theme Light",
+    "description": "Brackets port of Eclipse light theme",
+    "version": "1.0.0",
+    "homepage": "https://github.com/floatinghotpot/brackets-eclipse-theme",
+    "author": "Raymond Xie <rjfun.mobile@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "brackets", "rjfun" ]
+}
